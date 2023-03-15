@@ -1,2 +1,2 @@
-# C-38
-Camera(follows the car), created a circle on both screens for each car
+# C38RV_SpeedRacer_StudentActivity
+Student Activity
